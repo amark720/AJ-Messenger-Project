@@ -31,7 +31,9 @@ This app is suitable for enterprise messenger where all users appears because th
 4. To use push server(Google Cloud Messaging), you must put the key provided by Firebase in the request header(Authorization) in the sendGCM function in ChatActivity.java.
 
 # Screenshots:
-<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot1.png" alt="Landing Page" height="80%" width="50%">
-
-<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot2.png" alt="Sign Up Page" height="80%" width="50%">
-<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot3.png" alt="Group Chatting Page" height="80%" width="50%">
+### Landing Page
+<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot1.png" alt="Landing Page" height="80%" width="100%">
+### Sign Up Page
+<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot2.png" alt="Sign Up Page" height="80%" width="100%">
+### Group Chatting Page
+<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot3.png" alt="Group Chatting Page" height="80%" width="100%">
