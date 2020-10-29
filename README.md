@@ -4,14 +4,11 @@ This is a messenger app for Android based on Firebase (Cloud Firestore and Realt
 
 This app is suitable for enterprise messenger where all users appears because there is no management function such as add / delete / find friends.
 
-### BRANCHES ###
-- master: Cloud Firestore
-- realtime: Realtime Database
-
 ### FEATURES ###
 - 1:1 and Group chat
 - Text Messaging
 - Separate message Bubble color for sent and receive message.
+- Realtime Database using FireBase
 
 ### INSTALLATION ###
 1. Clone this source from github (in android studio).
