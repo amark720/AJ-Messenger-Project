@@ -36,3 +36,8 @@ This app is suitable for enterprise messenger where all users appears because th
 
 ### Group Chatting Page
 <img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot3.png" alt="Group Chatting Page" height="70%" width="100%">
+
+## AJ Messenger Short Report
+```FCM
+https://github.com/amark720/AJ-Messenger-Project/blob/master/AJ%20Messenger%20report.pdf
+```
