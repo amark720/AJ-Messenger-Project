@@ -32,8 +32,10 @@ This app is suitable for enterprise messenger where all users appears because th
 
 # Screenshots:
 ### Landing Page
-<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot1.png" alt="Landing Page" height="70%" width="90%">
+<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot1.png" alt="Landing Page" height="70%" width="100%">
+
 ### Sign Up Page
-<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot2.png" alt="Sign Up Page" height="70%" width="90%">
+<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot2.png" alt="Sign Up Page" height="70%" width="100%">
+
 ### Group Chatting Page
-<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot3.png" alt="Group Chatting Page" height="70%" width="90%">
+<img src="https://github.com/amark720/AJ-Messenger-Project/blob/master/Screenshot3.png" alt="Group Chatting Page" height="70%" width="100%">
